@@ -1,0 +1,16 @@
+/* 页面整体背景 */
+body {
+  background-color: #E6DCC4 !important;
+}
+
+/* 文章内容区域背景（可选，让卡片也有旧纸感） */
+.post-card,
+.post-content,
+.page-content {
+  background-color: #F0E8D6 !important;
+}
+
+/* 侧边栏背景（可选） */
+.sidebar {
+  background-color: #E6DCC4 !important;
+}
